@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+
+ <div  class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/patrickaxe/">
+		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/">
+			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+    <a style="margin-left: 10px;" target="_blank" href="mailto:p.di@uq.edu.au">
+      <img width="50" height="50" src="https://img.icons8.com/doodle/344/newsletter.png" ></a>
+ </div>
 
 - 🔭 I’m currently working on **Precision Agriculture**;
 - 🌱 I’m currently learning **Python**, **R**, **ISOXML** etc;
